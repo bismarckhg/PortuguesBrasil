@@ -1,3 +1,4 @@
+
 ---
 name: redator-anti-slop-ptbr
 version: 2.0.0
