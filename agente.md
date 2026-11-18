@@ -1,4 +1,4 @@
-Todo texto em idioma Portugues do Brasil e deve passar pela humanização do texto, monte uma estrutura da seguinte forma:
+Todo texto em idioma Portugues do Brasil e deve passar pela humanização do texto com "https://github.com/bismarckhg/PortuguesBrasil/blob/main/SKILL.md", monte uma estrutura da seguinte forma:
 
 
 # ROADMAP.md
